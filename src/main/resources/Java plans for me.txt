@@ -1,0 +1,53 @@
+4 Multithreading
+Reg expression
+Hibernate
+5 Docker
+Lambda/Stream API
+Git
+Files (excel)
+REST API
+2 Modules
+Tests
+3 Memory
+Spring Boot
+Patterns
+6 WebHook
+Thymeleaf
+API
+README
+
+
+Pattern
+OOP
+Immutable objects
+Object
+Objects
+String 
+Collections
+Exception
+In Out, word with files
+web, http/https
+database (jpa, jdbc, hibernate, ...)
+cookies, token, templates, front controller
+spring security
+spring bean
+ci/cd
+devOp
+Scheduling in Spring with Quartz
+преобразования Word в PDF
+Отправка электронных писем с помощью Spring
+Spring Boot Application Properties
+front end in Java
+Swing UI
+Bank API
+GPS
+
+create games
+create android app
+word with table (calander) like dinplom project
+cms
+
+
+
+DONE:
+solid
